@@ -1376,7 +1376,7 @@ AttributeError: 'NoneType' object has no attribute 'id'
 2021-01-22 16:17:16.554: INFO: [Scaleform] Destroy GUI Component: 'UiRenderComponent'
 2021-01-22 16:17:16.554: INFO: [Scaleform] Component Removed
 2021-01-22 16:17:18.336: INFO: [Scaleform] Destroy Scaleform Manager...
-2021-01-22 16:17:18.470: INFO: [Scaleform] Scaleform Manager destroyed.123 456
+2021-01-22 16:17:18.470: INFO: [Scaleform] Scaleform Manager destroyed.123 456 789
 
 \------------------------------------------------------------------------------------------/
 
