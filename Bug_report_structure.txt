@@ -1,0 +1,89 @@
+Defect ID:
+(Required)	System generated
+Author:
+(Required)	System generated
+
+Release/Build #
+(Required)	Build where issue was discovered
+
+Open Date:
+(Required)	System generated
+
+Close Date:
+(Required)	System generated when QA closes
+Problem Area:
+(Required)	Describe the problem area
+Defect or Enhancement:
+(Required)	? Defect (Default)
+? Enhancement
+
+Problem Title:
+(Required)	Short one-line description
+Problem Description:
+(Required)	A precise problem description with screen shots, if possible
+
+Current Environment:
+(Required)	E.g. Win95 / Oracle 4.0 NT
+Other Environment(s):	E.g., WinNT / Oracle 4.0 NT
+Defect Type:
+(Required)	? Functionality (Default)
+? Architectural
+? Connectivity
+? Consistency
+? Database Integrity
+? Documentation
+? GUI
+? Installation
+? Memory
+? Performance
+? Security and Controls
+? Standards and Conventions
+? Stress
+? Usability
+
+Who Detected:
+(Required)	? Quality Assurance (Default)
+? External Customer
+? Internal Customer
+? Development
+
+How Detected:
+(Required)	? Testing (Default)
+? Review
+? Walkthrough
+? JAD
+
+Assigned To:
+(Required)	Individual assigned to investigate problem
+
+Priority:
+(Required)	? High (Default)
+? Critical
+? Medium
+? Low
+
+Severity:
+(Required)	? High (Default)
+? Critical
+? Medium
+? Low
+
+Status:
+(Required)	? Open (Default)
+? Being Reviewed by Development
+? Returned by Development
+? Ready for Testing in the Next Build
+? Closed (QA)
+? Returned by (QA)
+? Deferred to the Next Release
+
+Status Description:
+	(Required when) 
+Status = “Returned by Development,” 
+              “Ready for Testing in the Next Build”
+Fixed by:	(Required when) 
+Status = “Ready for Testing in the Next Build”
+
+Planned Fix Build #:	(Required when) 
+Status = “Ready for Testing in the Next Build”
+
